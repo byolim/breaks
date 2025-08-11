@@ -1,5 +1,13 @@
 {
 "_base": "https://github.com/byolim/breaks/main/",
-"breaks": ["break1.wav","break2.wav","break3.wav","break4.wav","break5.wav","break6.wav","break7.wav","break8.wav","break9.wav","break10.wav"]
-
+ "break1": "break1.wav",
+ "break2": "break2.wav",
+ "break3": "break3.wav",
+ "break4": "break4.wav",
+ "break5": "break5.wav",
+ "break6": "break6.wav",
+ "break7": "break7.wav",
+ "break8": "break8.wav",
+ "break9": "break9.wav",
+ "break10": "break10.wav"
 }
